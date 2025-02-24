@@ -21,5 +21,5 @@ Console.WriteLine("Hello, World!");
 Console.Write("34323423");
 
 
-Console.ReadKEy();
+Console.ReadKey();
 return 0;
