@@ -24,3 +24,5 @@ Console.Write("34323423");
 Console.ReadKey();
 return 0;
 // you are rat axaxaxa
+
+Console.Write("Write your username")
