@@ -19,3 +19,7 @@ Console.WriteLine("Hello, World!");
 //code
 //very long code
 Console.Write("34323423");
+
+
+Console.ReadKEy();
+return 0;
